@@ -1,7 +1,7 @@
 # GitHubの作成したリポジトリをwebページとして公開する
 
 ### 実行環境
-- mac OS X Yosemite (バージョン10.10.5)
+- mac OS X Yosemite (バージョン:10.10.5)
 - Google Chrome(バージョン:59.0.3071.86)
 
 ### 前提条件
