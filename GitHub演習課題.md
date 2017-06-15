@@ -1,13 +1,11 @@
-# TestCreate
-機能
-・GitHubの作成したリポジトリをwebページとして公開できる
+# GitHubの作成したリポジトリをwebページとして公開できる
 
 実行環境
-・mac OS X Yosemite (バージョン10.10.5)
-・Google Chrome(バージョン:59.0.3071.86)
+・　mac OS X Yosemite (バージョン10.10.5)
+・　Google Chrome(バージョン:59.0.3071.86)
 
 前提条件
-・GitHubにログインしている
+・　GitHubにログインしている
 
 手順
 1. マイページに移動する
