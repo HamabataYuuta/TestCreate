@@ -14,5 +14,5 @@
 4. GitHub PagesのSourceプルダウンからmaster brunchを選択しSaveボタンを押す
 5. 再度GitHub Pagesを確認するとリポジトリのURLが表示される
 
-出展
+### 出展
 GitHubを使ってWebサイトを公開する(http://qiita.com/wifeofvillon/items/bed79dc85f956c8169a0)
